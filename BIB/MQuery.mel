@@ -1,0 +1,3 @@
+funcao imp(...text){
+imprimir(...text)
+}
